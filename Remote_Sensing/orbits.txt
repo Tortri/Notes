@@ -1,0 +1,32 @@
+kepler 1:
+eccentricity | type of orbit
+=0           | circular
+<1           | elliptic
+=1           | parabolic
+>1           | hyperbolic
+
+kepler 2:
+areas swept same in equal time intervals
+
+kepler 3:
+
+
+to learn:
+-foci
+-apogee, perigee
+-latidude, longitude
+-oblateness
+-words from space tech
+-keplers laws
+-newtons equations!!
+-3 2nd order differential equations: 6 independent values= a,b (=e), inclination, longitude of the ascending node, 
+-mean anomaly M
+-fixed point integration
+-escape velocity
+-geostationary, geosynchronous, (V)LEO ~100min, HEO, non-geocentric, molniya, ICO(MEO), tundra
+-legendre polinomials/functions(1st kind)  : J2 is most important
+-perturbations: atmospheric losses, solar radiation pressure, gravity field sun and moon, tides, earths magnetic field
+-effects: oscillation of orbital plane, regression of the nodal line, perigee advance
+-pointing's vector
+-ground track
+-earth-sun synchronous orbit
