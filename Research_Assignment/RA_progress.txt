@@ -1,7 +1,7 @@
 Week 38 (start):
--tu: intro, sent mail/ticket for installment of ADS, read -analog RoF for 5G- paper
--we: read 
--th: understand papers, plan implementation
+-tu: intro, sent mail/ticket for installment of ADS, read analog RoF for 5G paper
+-we: read other paper
+-th: understand papers, added notes to GitHub
 Week 39:
 
 Week 40:
