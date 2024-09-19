@@ -1,0 +1,73 @@
+Keywords: 
+-fronthaul, 
+-(A/D-)RoF, 
+-(C-)RAN, 
+-DPD (digital pre-distortion), 
+-EVM, SFP (-class transceiver, TOSA, ROSA), 
+-IF(-over-Fiber), 
+-spectral efficiency, 
+-DML (directly modulated lasers), 
+-64QAM/256QAM, 
+-(e)CPRI, 
+-fiber dispersion, 
+-laser chirp, 
+-SMF (single mode fiber), 
+-memory polynomial,
+-IQ mixer,
+-VSA (vector signal analyser),
+-S-parameters,
+-Small form-factor pluggable (SFP),
+-optical attenuator,
+-SNR,
+-coding factor,
+-control word (CPRI),
+-spectral regrowth,
+-FR1/FR2,
+-CU/DU (centralised unit/distributed unit),
+-MIMO (mult. input mult. output),
+-3GPP,
+-Q-factor,
+-In-Phase (I) / Quadrature-Phase (Q) Data,
+-optoelectronics,
+-FEC (forw. error correction),
+-signal constellation,
+-B2B (back-to-back transmission)
+-signal fidelity,
+-half/full duplex, duplexing,
+-cross-coupling,
+-C-band,
+-resonators, open-loop resonator, hairpin resonator,
+-substrate,
+-side-lobe level,
+-
+
+Papers:
+
+1. 5G network architecture and frequency bands
+2. Modulation schemes (64QAM, 256QAM)
+3. Fronthaul and backhaul in 5G networks
+4. Radio-over-Fiber (RoF) - digital and analog transmission
+5. Full-duplex communication - simultaneous Tx/Rx
+6. Polarization, bandwidth, and gain in antenna design
+7. Intermediate Frequency (IF) and Radio Frequency (RF) over fiber
+8. Digital Pre-Distortion (DPD) for linearity improvement
+9. Error Vector Magnitude (EVM) for signal quality assessment
+10. Small Form-factor Pluggable (SFP) transceivers
+11. Dual-band antennas for simultaneous operation at two frequency bands
+12. Antenna array configurations and feeding networks
+13. Cross-coupling in antennas for enhanced isolation and filtering
+14. Channel isolation and out-of-band interference rejection
+15. Open-loop and hairpin resonators in RF systems
+16. Fractional bandwidth (FBW) in antennas
+17. S-parameters (Scattering Parameters) - reflection and transmission coefficients
+18. Coupling matrices and resonator-based filtering
+19. Radiation patterns and gain in antenna systems
+20. Power spectral density (PSD) and noise analysis in signal transmission
+21. Signal-to-noise ratio (SNR) in communication systems
+22. Impedance matching for efficient antenna performance
+23. Bandpass filters and transmission zeros
+24. Frequency selectivity and harmonics suppression in RF systems
+25. Broadband communication and harmonics suppression
+26. Signal attenuation and inter-channel gain suppression
+27. Constellation diagrams for modulation performance
+28. Vehicular communication systems - V2V and V2I
