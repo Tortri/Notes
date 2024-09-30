@@ -1,0 +1,7 @@
+-differences in gravitational surface of earth
+-topography/bathimetry(under sea/depth)
+-different heights (ellipsical, geoid, )
+-projections: cylinder, cone, plane
+-conformal: angles preserved; aphilactic(authomecoic): distances preserved; equivalent: areas preserved
+-most recommended: universal transversa mercator
+-ICGC: different map data
