@@ -7,7 +7,7 @@ Week 39:
 -th: [saw the lab rooms I will work in], [resent mail for installment of ADS], [read about impedance matching: https://abracon.com/uploads/resources/Abracon-White-Paper-Antenna-Impedance-Matching.pdf]
 
 Week 40:
--mo: [ADS tutorials]
+-mo: [ADS tutorials], [read about polarisation protection possibility: https://elamazing.com/2021/03/31/polarity-correcting-circuit/]
 -tu: [remake PCB design for antenna]
 
 Week 41:
