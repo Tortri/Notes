@@ -1,10 +1,14 @@
 Week 38 (start):
--tu: intro, sent mail/ticket for installment of ADS, read analog RoF for 5G paper
--we: read other paper
--th: understand papers, added notes to GitHub
+-tu: [intro], [sent mail/ticket for installment of ADS], [read analog RoF for 5G paper]
+-we: [read "Dual-Band Full-Duplex Tx/Rx Antennas for Vehicular Communications"]
+-th: [understand papers], [added notes to GitHub]
 Week 39:
+-we: [read about antennas: https://www.digikey.com/en/blog/antenna-polarization-what-it-is-and-why-it-matters], [read about S-parameters: https://en.wikipedia.org/wiki/Scattering_parameters]
+-th: [saw the lab rooms I will work in], [resent mail for installment of ADS], [read about impedance matching: https://abracon.com/uploads/resources/Abracon-White-Paper-Antenna-Impedance-Matching.pdf]
 
 Week 40:
+-mo: [ADS tutorials]
+-tu: [remake PCB design for antenna]
 
 Week 41:
 
