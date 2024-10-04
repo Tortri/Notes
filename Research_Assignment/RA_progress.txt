@@ -8,7 +8,7 @@ Week 39:
 
 Week 40:
 -mo: [ADS tutorials], [read about polarisation protection possibility: https://elamazing.com/2021/03/31/polarity-correcting-circuit/]
--tu: [remake PCB design for antenna]
+-tu: [started on ADS pcb design for a polarisation protection circuit]
 
 Week 41:
 
