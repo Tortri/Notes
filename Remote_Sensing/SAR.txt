@@ -1,0 +1,19 @@
+-multiple small antennas together
+-infinite impulse response not possible
+-resolution dependent on l or distance 
+-the more distance from target, the more time to see target,the less doppler
+-main issue: range and azimuth resolution not independent -> freq domain calculation 
+-mountains distorted because peak appears before bottom (image based on time)
+-speckle noise: wavelength in cm, pixel in meters, focus points either destructive or constructive
+
+to review:
+-sinc function
+-azimuth, range (direction of satellite)
+-doppler slope 
+-delta tau
+-doppler bandwidth 
+-PRF pulse rep. freq.
+-aliasing, sample frequency
+-fundamental SAR equations
+-SNR
+-gaussian pdf
