@@ -16,8 +16,10 @@ Week 41 (vacation)
 Week 42: 
 -th: [catching up on progress], [opened and looked at ADS files from the cloud]
 -fr: [saw more about the full circuit to be deeveloped], [made a circuit sketch]
--su: [planned for next steps and questions], [tried integrating impedance matching in circuit] 
+-su: [planned for next steps and questions], [tried integrating polarity protection with diodes] 
 
 Week 43:
+-mo: [learned more about impedance matching and how it would work in this circuit]
+-tu: []
 
 Week 44:
