@@ -1,0 +1,9 @@
+notes:
+-spatial averaging is at the expense of spatial resolution
+
+exam calculation:
+-antenna beamwidth: how much angle can it see
+
+to review:
+-S/N Signal to noise ratio
+-oversampling, sampling
