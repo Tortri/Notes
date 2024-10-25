@@ -20,6 +20,7 @@ Week 42:
 
 Week 43:
 -mo: [learned more about impedance matching and how it would work in this circuit]
--tu: []
+-tu: [reviewed circuits of datasheets and L impedance matching circuit]
+-fr: [finished first sketch of entire circuitry: https://github.com/Tortri/Notes/blob/main/Research_Assignment/circuitry_sketch_1.jpeg]
 
 Week 44:
