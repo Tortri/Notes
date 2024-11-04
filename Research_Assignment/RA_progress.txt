@@ -26,3 +26,8 @@ Week 43:
 Week 44:
 -we: [reviewed sketch with professor]
 -fr: [created MATLAB script to read data from s1p files], [created plots for s-parameter results from old project]
+
+Week 45:
+-tu:
+-we:
+-th: 
