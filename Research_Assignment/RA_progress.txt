@@ -24,3 +24,5 @@ Week 43:
 -fr: [finished first sketch of entire circuitry: https://github.com/Tortri/Notes/blob/main/Research_Assignment/circuitry_sketch_1.jpeg]
 
 Week 44:
+-we: [reviewed sketch with professor]
+-fr: [created MATLAB script to read data from s1p files], [created plots for s-parameter results from old project]
