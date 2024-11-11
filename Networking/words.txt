@@ -1,0 +1,139 @@
+A typical SCADA system setup includes a main control server in a central control center, various communication tools, and several field sites equipped with Remote Terminal Units (RTUs) and/or Programmable Logic Controllers (PLCs).
+
+# Industrial Automation and Control Systems (IACS)
+-- Control Systems
+- Open-loop Control Systems (Feedforward)
+- Closed-loop Control Systems (Feedback)
+
+-- Automation Components
+- Programmable Logic Controllers (PLCs)
+- Programmable Automation Controllers (PACs)
+- Remote Terminal Units (RTUs)
+- Industrial PCs (IPCs)
+
+-- Supervisory and Process Control Systems
+- Supervisory Control and Data Acquisition (SCADA)
+- Distributed Control Systems (DCS)
+- Motion Control Systems
+- Advanced Process Control (APC)
+- Safety Instrumented Systems (SIS)
+- Machine Vision Systems
+- Manufacturing Execution Systems (MES)
+
+-- Manufacturing Automated Control Systems (MACS)
+- Integration of control and automation systems for industrial processes
+
+# Smart Grid Systems
+-- Architecture and Framework
+- Smart Grid Architecture Model (SGAM)
+
+-- Grid Monitoring and Measurement
+- Phasor Measurement Units (PMUs)
+- Advanced Digital Meters
+- Relays
+- Automated Feeder Switches
+
+-- Grid Optimization and Management
+- Distributed Energy Resource Management Systems (DERMS)
+- Integrated Voltage/Var Control (IVVC)
+- Energy Storage Batteries
+
+# Intelligent Transportation Systems (ITS)
+-- Connected Vehicle Technology
+- Vehicle-to-Vehicle (V2V) Communication
+- Vehicle-to-Infrastructure (V2I) Communication
+
+-- Traffic Management Systems
+- Advanced Traffic Management Systems (ATMS)
+- Automated Vehicle Location (AVL) Systems
+- Electronic Toll Collection Systems
+
+# Safety Guidelines and Standards
+-- General Safety Guidelines
+- OSHA Guidelines
+- CIP Safety
+- PROFIsafe
+
+-- Functional Safety Standards
+- IEC 61508 (Functional Safety of Electrical/Electronic/Programmable Systems)
+- IEC 61511 (Safety Instrumented Systems for the Process Industry Sector)
+
+-- Machinery Safety Standards
+- ISO 13849 (Safety of Machinery - Safety-Related Parts of Control Systems)
+- IEC 62061 (Safety of Machinery - Functional Safety of Electrical, Electronic, and Programmable Electronic Control Systems)
+
+-- Industrial Cybersecurity Standards
+- IEC 62443 (Industrial Network and System Security)
+- NIST SP 800-82 (Guide to Industrial Control Systems Security)
+
+-- Global Safety and Security Standards
+- ISO 13849 (Safety of Machinery)
+- IEC 61508 (Functional Safety of Electrical/Electronic/Programmable Systems)
+- IEC 62061 (Safety of Machinery)
+
+# Redundancy Features
+-- General Redundancy Strategies
+- Multiple Paths
+- Redundant Firewalls
+- Redundant Switches
+- Redundant Routers
+- Redundant Servers
+- Eliminating Single Points of Failure
+
+# Link Redundancy Mechanisms
+-- Protocols and Technologies
+- EtherChannel
+- Cisco’s Port Aggregation Protocol (PAgP)
+- Link Aggregation Control Protocol (LACP) - part of the IEEE 802.3ad specification
+- Flex Links
+
+#Purdue Model
+-- Level 0: Physical Processes
+- Sensors (e.g., Temperature, Pressure, Flow)
+- Actuators (e.g., Valves, Motors, Relays)
+- Industrial Control Devices directly interacting with physical equipment
+
+-- Level 1: Basic Control
+- Programmable Logic Controllers (PLCs)
+- Remote Terminal Units (RTUs)
+- Field Devices for Direct Control of Processes
+
+-- Level 2: Supervisory Control
+- Human-Machine Interfaces (HMIs)
+- SCADA Systems (Supervisory Control and Data Acquisition)
+- Real-time Monitoring and Basic Automation Control
+
+-- Level 3: Manufacturing Operations and Control
+- Manufacturing Execution Systems (MES)
+- Production Scheduling and Resource Management
+- Data Collection and Analysis for Process Optimization
+
+-- Level 4: Business Logistics Systems
+- Enterprise Resource Planning (ERP) Systems
+- Supply Chain Management (SCM)
+- Customer Relationship Management (CRM)
+- High-Level Business Decision Support
+
+# Communication Protocols
+-- Common Industrial Protocols
+- Modbus, Profibus, EtherNet/IP
+- OPC UA (Open Platform Communications Unified Architecture)
+- Industrial Wireless Communication Standards
+
+-- Network Communication Between Levels
+- Data Flow between Operational Technology (OT) and Information Technology (IT)
+- Secure Data Transfer from the Plant Floor to Business Systems
+
+# High Availability
+-- Layer 2 HA:
+- RSTP prevents loops in Ethernet networks and provides fast convergence, ensuring only one active path between switches.
+- MRP provides loop avoidance and fast convergence in ring topologies by designating a device as the manager to control the ring and detect failures.
+- REP offers fast convergence and a loop-free topology in Ethernet networks using ring topology, with primary and secondary edge ports managing traffic to prevent loops.
+- PRP provides hitless redundancy with zero recovery time by allowing end nodes to send duplicate packets through two independent networks.
+- HSR achieves zero recovery time in ring topologies by sending traffic in both directions, allowing quick recovery from failures.
+- DLR ensures minimal recovery time for critical IACS applications by using embedded switch technology in a ring topology with active monitoring and quick reconfiguration during faults
+
+-- Layer 3 HA:
+- FHRPs like HSRP and VRRP ensure router redundancy by allowing multiple routers to provide backup default gateways for end systems.
+- HSRP provides high network availability by allowing multiple routers to function as a group, presenting a single virtual router to hosts.
+- VRRP, an open standard protocol, provides similar functionality to HSRP, allowing multiple routers to act as a single virtual router to ensure continuous network availability.
