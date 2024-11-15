@@ -1,0 +1,9 @@
+Include more formulas:
+Also, write a footnote for every symbol with an explanation:
+gain
+noise equivalent power
+Ids =current diode surface
+Idb =current diode bulk
+F = Excess noise factor
+
+parallel between RF and optics
