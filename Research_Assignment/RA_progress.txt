@@ -28,6 +28,22 @@ Week 44:
 -fr: [created MATLAB script to read data from s1p files], [created plots for s-parameter results from old project]
 
 Week 45:
--tu:
--we:
--th: 
+-tu: [reviewed plots created prior week]
+
+Week 46:
+-tu: [started on report writing for the research assignment]
+-we: [report writing]
+
+Week 47:
+-fr: [looked at touchstone file simulations from previous project in ADS]
+
+Week 48:
+-tu: [matched the 3 different types of tests with Rodrigo to different touchstone files from old experiments]
+-we: [report writing]
+-th: [matched different touchstone files to different PCBs from old project]
+-fr: [recreated impedance matching circuit in ADS]
+
+Week 49:
+-tu: [continued recreating impedance matching circuit in ADS]
+-we: [simulated touchstone files with impedance matching circuit]
+-th: []
