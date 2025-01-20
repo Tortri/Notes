@@ -46,4 +46,6 @@ Week 48:
 Week 49:
 -tu: [continued recreating impedance matching circuit in ADS]
 -we: [simulated touchstone files with impedance matching circuit]
--th: []
+-th: [report writing]
+
+Week 50 & onwards: [report + finishing up] 
